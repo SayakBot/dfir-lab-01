@@ -7,7 +7,6 @@
 ## 📖 Read the Full Write-up
 
 👉 **[View the Blog Post](https://SayakBot.github.io/dfir-lab-01/dfir-malware-investigation-blog.html)**  
-*(Deploy this repo with GitHub Pages to make this link live)*
 
 ---
 
