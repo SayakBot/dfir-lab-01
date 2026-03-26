@@ -74,13 +74,4 @@ dfir-lab-01/
 
 ---
 
-## 🚀 Deploy on GitHub Pages
-
-1. Fork or clone this repo
-2. Go to **Settings → Pages**
-3. Set source to `main` branch, root `/`
-4. Your blog will be live at `https://YOUR-USERNAME.github.io/dfir-lab-01/`
-
----
-
 *This is Lab #001 in an ongoing series of personal DFIR projects. Still learning — feedback always welcome.*
